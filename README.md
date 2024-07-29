@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @anand-410
+- 👀 I’m interested in website design.
+- The JSON School website is an educational platform designed to teach users about JSON (JavaScript Object Notation). It provides resources, tutorials, and interactive exercises to help learners understand and effectively use JSON in their projects. The website is built using HTML, CSS, and JavaScript, ensuring a responsive and engaging user experience.
